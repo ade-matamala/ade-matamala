@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ade-matamala
-- 👀 I’m interested in molecular biology/biophysics
-- 🌱 I’m currently stydying a bachelor's degree in biochemistry
+- 👀 I’m interested in structural biology and molecular dynamic simulations
+- 🌱 I’m currently studying a bachelor's degree in biochemistry
 - 💞️ I’m looking to collaborate on basic projects in python
 
 <!---
